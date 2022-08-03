@@ -17,6 +17,8 @@ You must have access to the codebase of this project. It is not deployed anywher
 
 ## Usage
 
+use by accessing the mysql shell in the integrated terminal. Use commands to access different parts of the database, and update information about producct.
+
 (watch a demo of routes testing using Insomnia)[https://watch.screencastify.com/v/5eG4IRhCRX32dDDvftOu]
 
 ## Credits
